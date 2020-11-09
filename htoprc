@@ -27,4 +27,3 @@ left_meters=CPU Memory Swap
 left_meter_modes=1 1 1
 right_meters=Clock Hostname Tasks LoadAverage Uptime
 right_meter_modes=2 2 2 2 2
-vim_mode=1
